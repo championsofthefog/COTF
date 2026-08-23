@@ -1,6 +1,6 @@
 {
 	"Name": "S14 RED RANK",
-	"Version": 1786730922,
+	"Version": 1787496522,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Killer Maps are determined by your pick and ban channels.\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
 	"Tiers": [
@@ -262,6 +262,7 @@
 				"247",
 				"19",
 				"20",
+				"21",
 				"73",
 				"22",
 				"23",
@@ -1634,6 +1635,7 @@
 				"69",
 				"76",
 				"80",
+				"88",
 				"92",
 				"109",
 				"112",
@@ -3653,6 +3655,7 @@
 				"69",
 				"76",
 				"80",
+				"88",
 				"92",
 				"109",
 				"112",
@@ -3707,7 +3710,8 @@
 				5
 			],
 			"KillerOfferings": [
-				5
+				5,
+				8
 			]
 		},
 		{
