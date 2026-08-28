@@ -1,6 +1,6 @@
 {
 	"Name": "S14 RED RANK",
-	"Version": 1787496522,
+	"Version": 1787946417,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Killer Maps are determined by your pick and ban channels.\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
 	"Tiers": [
@@ -21,6 +21,7 @@
 				"18",
 				"247",
 				"19",
+				"318",
 				"20",
 				"73",
 				"22",
@@ -48,6 +49,7 @@
 				"308",
 				"49",
 				"51",
+				"319",
 				"262",
 				"54",
 				"55",
@@ -74,6 +76,7 @@
 				"96",
 				"296",
 				"98",
+				"320",
 				"99",
 				"100",
 				"102",
@@ -107,6 +110,7 @@
 				"138",
 				"140",
 				"141",
+				"315",
 				"146",
 				"147",
 				"255",
@@ -139,12 +143,14 @@
 				"310",
 				"182",
 				"183",
+				"316",
 				"185",
 				"186",
 				"265",
 				"188",
 				"190",
 				"194",
+				"317",
 				"195",
 				"196",
 				"197",
@@ -4290,6 +4296,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
