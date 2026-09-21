@@ -1,8 +1,8 @@
 {
-	"Name": "S14 RED RANK",
-	"Version": 1787967941,
+	"Name": "S14 Seasonal",
+	"Version": 1789581111,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "Killer Maps are determined by your pick and ban channels.\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+	"GlobalNotes": "Killer Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -226,7 +226,7 @@
 		{
 			"Name": "The Trapper",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -565,7 +565,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"6"
 			],
 			"BalanceTiers": [
 				0
@@ -580,6 +580,7 @@
 				"167",
 				"170",
 				"173",
+				"181",
 				"264",
 				"191",
 				"220",
@@ -649,7 +650,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -663,6 +664,7 @@
 				"166",
 				"167",
 				"170",
+				"181",
 				"264",
 				"191",
 				"220",
@@ -740,7 +742,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"32"
+				"20"
 			],
 			"BalanceTiers": [
 				0
@@ -839,7 +841,7 @@
 		{
 			"Name": "The Hag",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -943,7 +945,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"54"
 			],
 			"BalanceTiers": [
 				0
@@ -1037,7 +1039,7 @@
 		{
 			"Name": "The Huntress",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -1135,7 +1137,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -1234,7 +1236,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -1324,7 +1326,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
 				0
@@ -1423,7 +1425,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -1703,7 +1705,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -1792,7 +1794,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"20"
 			],
 			"BalanceTiers": [
 				0
@@ -1888,7 +1890,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
@@ -1977,7 +1979,7 @@
 		{
 			"Name": "The Oni",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2160,7 +2162,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"54"
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -2268,6 +2270,7 @@
 				"167",
 				"170",
 				"178",
+				"181",
 				"264",
 				"191",
 				"220",
@@ -2345,7 +2348,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -2419,7 +2422,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -2508,7 +2511,7 @@
 		{
 			"Name": "The Nemesis",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2605,7 +2608,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -2701,7 +2704,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"5"
 			],
 			"BalanceTiers": [
 				0
@@ -2774,7 +2777,7 @@
 		{
 			"Name": "The Onryo",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3068,7 +3071,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
 				0
@@ -3161,7 +3164,7 @@
 		{
 			"Name": "The Skull Merchant",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3265,7 +3268,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -3351,7 +3354,7 @@
 		{
 			"Name": "The Xenomorph",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3443,7 +3446,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"32"
 			],
 			"BalanceTiers": [
 				0
@@ -3537,7 +3540,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"49"
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -3726,7 +3729,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -3801,7 +3804,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"54"
 			],
 			"BalanceTiers": [
 				0
@@ -3973,7 +3976,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"32"
 			],
 			"BalanceTiers": [
 				0
@@ -4068,7 +4071,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"13"
 			],
 			"BalanceTiers": [
 				0
@@ -4145,7 +4148,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -4223,7 +4226,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -4301,9 +4304,9 @@
 		{
 			"Name": "The Judgment",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"16"
 			],
 			"BalanceTiers": [
 				0
@@ -4312,17 +4315,45 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132",
+				"166",
+				"167",
+				"170",
+				"173",
+				"181",
+				"264",
+				"191",
+				"220",
+				"297"
+			],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"AddonTiersBanned": [
+				4
+			],
+			"IndividualAddonBans": [
+				873,
+				875,
+				876,
+				868,
+				872
+			],
+			"ItemWhitelist": [
+				0,
+				6,
+				9
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -4346,8 +4377,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }
