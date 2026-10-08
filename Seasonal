@@ -1,6 +1,6 @@
 {
 	"Name": "S14 Playoffs",
-	"Version": 1791413690,
+	"Version": 1791488952,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Killer Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
 	"Tiers": [
@@ -1238,7 +1238,7 @@
 		{
 			"Name": "The Nightmare",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"33"
 			],
